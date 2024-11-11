@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GabrielGonAn/integrador702.git/static/css/main.b07fd243.css",
+    "main.js": "/GabrielGonAn/integrador702.git/static/js/main.28c3f886.js",
+    "static/js/453.ebcd9aff.chunk.js": "/GabrielGonAn/integrador702.git/static/js/453.ebcd9aff.chunk.js",
+    "index.html": "/GabrielGonAn/integrador702.git/index.html",
+    "main.b07fd243.css.map": "/GabrielGonAn/integrador702.git/static/css/main.b07fd243.css.map",
+    "main.28c3f886.js.map": "/GabrielGonAn/integrador702.git/static/js/main.28c3f886.js.map",
+    "453.ebcd9aff.chunk.js.map": "/GabrielGonAn/integrador702.git/static/js/453.ebcd9aff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b07fd243.css",
+    "static/js/main.28c3f886.js"
+  ]
+}
