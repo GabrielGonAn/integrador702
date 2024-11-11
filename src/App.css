@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  text-align: left;
+  
 }
 
 .App-logo {
@@ -15,17 +16,19 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
 .App-link {
   color: #61dafb;
+  margin-left: 20px;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +38,42 @@
   to {
     transform: rotate(360deg);
   }
+}
+.container {
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 10px;
+  width: 300px;
+  padding: 15px;
+  text-align: left;
+}
+
+.card-content h2 {
+  margin: 0;
+}
+
+.chart-container {
+  height: 200px;
+  margin-top: 10px;
+}
+
+.error {
+  color: red;
 }
